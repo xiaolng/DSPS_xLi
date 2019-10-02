@@ -1,1 +1,1 @@
- X.L. finished the data analysis.
+ X.L. completed this project independently.
