@@ -20,3 +20,6 @@ values are what.
 Quality: It was an interesting idea to represent the wine quality as a color which I thought
 was nice. The color of the background with the color of the points are highly contrasting which makes them easy on the eye. 
 The fonts and sizes of the letters and numbers are also easy to read.
+
+
+![XiaoLong Plot](https://raw.githubusercontent.com/xiaolng/DSPS_xLi/master/HW8/wine.png)
